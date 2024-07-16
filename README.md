@@ -3,7 +3,7 @@
 - 📖 In the College of Engineering and the Corps of Cadets at Texas A&M University 
 - 💡 Currently pursuing a Mechatronics Engineering Undergraduate Degree BS (ABET Accredited)
 - 😄 Working on a Minor in Embedded Systems Integration
-- 💞️ I’m looking to collaborate on Engineering R&D projects
+- 💞️ I’m looking to collaborate on Technical R&D Projects
 - 📫 Please feel free to reach me at kyle.o.rex@gmail.com
 
 <!---
